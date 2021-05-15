@@ -10,4 +10,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waferss&layout=compact)](https://github.com/waferss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waferss)](https://github.com/waferss)
