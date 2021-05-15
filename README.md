@@ -1,4 +1,4 @@
-# Hi there !r
+# Hi there !
 
 ---
 
